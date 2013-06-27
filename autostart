@@ -1,0 +1,4 @@
+i3-msg exec kwalletd
+i3-msg exec --no-startupid kmix
+i3-msg exec thunderbird
+i3-msg exec dropboxd
